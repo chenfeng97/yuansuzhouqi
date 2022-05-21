@@ -1,13 +1,13 @@
 {
-  "name": "Heroku_v2ray",
-  "description": "DaoChen's v2",
+  "name": "yuansuzhouqi",
+  "description": "yuansuzhouqi",
   "keywords": [
     ""
   ],
   "env": {
     "PROTOCOL": {
       "description": "协议VMess或VLESS，请填小写的vmess或vless",
-      "value": "vmess",
+      "value": "vless",
       "required": true
     },
     "UUID": {
